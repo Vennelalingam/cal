@@ -17,4 +17,6 @@ Simple-Calculator/
 
 4. ⚙️ How to Run  
 1. Clone this repository or download the `cal.py` file.  
-2. Open a terminal in the project folder.  
+2. Open a terminal in the project folder.
+3. Run the script
+   python cal.py  
